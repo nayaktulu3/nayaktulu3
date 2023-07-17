@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nayaktulu3
 - 👀 I’m interested in data analysyt
 - 🌱 I’m currently learning DA
+  
 
 
 <!---
