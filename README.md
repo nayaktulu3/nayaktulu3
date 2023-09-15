@@ -21,6 +21,25 @@ Here are some of the key projects you'll find in my GitHub repository:
 - ### 3. Employee Retention
 - Description: Developed a web scraper in SQL to collect data from HR data websites for competitive HR analysis.
 - Technologies Used: Excel, SQL
+
+- ## Skills
+- Data Analysis
+- Data Visualization
+- SQL
+- Excel
+- Power BI
+-Tableu
+-Google Sheet
+
+
+## Contact
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
+- Email: nayaktulu333@gmail.com
+- LinkedIn: www.linkedin.com/in/tulu-nayak-998026224
+
+
+Thank you for visiting my GitHub portfolio. I hope you find my projects and contributions interesting and valuable. I'm always eager to learn and collaborate, so please don't hesitate to get in touch!
+
 <!---
 nayaktulu3/nayaktulu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
