@@ -22,14 +22,18 @@ Here are some of the key projects you'll find in my GitHub repository:
 - Description: Developed a web scraper in SQL to collect data from HR data websites for competitive HR analysis.
 - Technologies Used: Excel, SQL
 
+-### 4. Diabetes Analysis
+-Description: The dataset, originally sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, consists of medical predictor variables and a target dependent variable (Outcome) indicating whether a patient has diabetes. The objective of this project was to gain insights into the dataset, identify key performance indicators (KPIs), and create informative visualizations.
+
 - ## Skills
 - Data Analysis
 - Data Visualization
 - SQL
 - Excel
 - Power BI
--Tableu
--Google Sheet
+- Tableu
+- Python
+- Google Sheet
 
 
 ## Contact
