@@ -44,7 +44,7 @@ other repositories, ensuring data authenticity and reliability. Employed forecas
 ## Contact
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
 - Email: nayaktulu333@gmail.com
-- LinkedIn: (www.linkedin.com/in/tulunayak](https://www.linkedin.com/in/tulunayak8862/)
+- LinkedIn: (https://www.linkedin.com/in/tulunayak8862/)
 
 Thank you for visiting my GitHub portfolio. I hope you find my projects and contributions interesting and valuable. I'm always eager to learn and collaborate, so please don't hesitate to get in touch!
 
