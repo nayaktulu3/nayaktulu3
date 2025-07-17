@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @nayaktulu3
-- 
-- Welcome to my GitHub portfolio! My name is Tulu Nayak, and I'm a passionate Data Analyst with a Bachelor's degree in Commerce. I'm excited to share my projects, contributions, and skills in the field of data analysis with you. This README will provide an overview of what you can find in my GitHub repository.
+- Welcome to my GitHub portfolio! My name is Tulu Nayak, and I'm a passionate Business Analyst with degree in Master of Business Administration. I'm excited to share my projects, contributions, and skills in the field of data/business analytics with you. This README will provide an overview of what you can find in my GitHub repository.
 
 ## About Me
 - **Name**: Tulu Nayak
@@ -28,8 +26,10 @@ Here are some of the key projects you'll find in my GitHub repository:
 -### 5. Water Resource Management Through Data Analytics in India
 -Description: Conducted comprehensive analysis on water quality, quantity, distribution, and utilization using advanced methods such as 
 statistical modeling, Data Analysis and GIS. Gathered and integrated datasets from Central Water Commission, IMD, OGDI, State Water Resources Department, and 
-other repositories, ensuring data authenticity and reliability. Employed forecasting methodologies and data visualization techniques to predict water availability, optimize allocation, and 
-support informed decision-making in water management. 
+other repositories, ensuring data authenticity and reliability. Employed forecasting methodologies and data visualization techniques to predict water availability, optimize allocation, and support informed decision-making in water management. 
+
+-### 6. Cigarette-Market-Penetration-Analysis-in-Odisha
+-Project Overview This project focuses on the analysis of cigarette market penetration in Odisha, utilizing real data gathered from a comprehensive survey conducted across six districts. The study aims to explore consumer behavior, preferences, and trends within the retail sector, involving both smokers and retail shops.
 
 - ## Skills
 - Data Analysis
@@ -37,17 +37,14 @@ support informed decision-making in water management.
 - SQL
 - Excel
 - Power BI
-- Tableau
 - Python
 - Google Sheet
-- Power Point
-
+- PowerPoint
 
 ## Contact
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
 - Email: nayaktulu333@gmail.com
-- LinkedIn: www.linkedin.com/in/tulunayak7008271936
-
+- LinkedIn: (www.linkedin.com/in/tulunayak](https://www.linkedin.com/in/tulunayak8862/)
 
 Thank you for visiting my GitHub portfolio. I hope you find my projects and contributions interesting and valuable. I'm always eager to learn and collaborate, so please don't hesitate to get in touch!
 
