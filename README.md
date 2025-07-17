@@ -12,23 +12,23 @@ Here are some of the key projects you'll find in my GitHub repository:
 - Description: Analyzed sales data to identify trends and make strategic recommendations for a retail company.
 - Technologies Used: Excel, SQL, Power BI, Tableau
 
-- ### 2. Olist E-commerce Website Scraper
+ ### 2. Olist E-commerce Website Scraper
 - Description: Developed a web scraper in Python to collect data from e-commerce websites for competitive pricing analysis.
 - Technologies Used: Excel, Power BI
 
-- ### 3. Employee Retention
+ ### 3. Employee Retention
 - Description: Developed a web scraper in SQL to collect data from HR data websites for competitive HR analysis.
 - Technologies Used: Excel, SQL
 
--### 4. Diabetes Analysis
+### 4. Diabetes Analysis
 -Description: The dataset, originally sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, consists of medical predictor variables and a target dependent variable (Outcome) indicating whether a patient has diabetes. The objective of this project was to gain insights into the dataset, identify key performance indicators (KPIs), and create informative visualizations.
 
--### 5. Water Resource Management Through Data Analytics in India
+### 5. Water Resource Management Through Data Analytics in India
 -Description: Conducted comprehensive analysis on water quality, quantity, distribution, and utilization using advanced methods such as 
 statistical modeling, Data Analysis and GIS. Gathered and integrated datasets from Central Water Commission, IMD, OGDI, State Water Resources Department, and 
 other repositories, ensuring data authenticity and reliability. Employed forecasting methodologies and data visualization techniques to predict water availability, optimize allocation, and support informed decision-making in water management. 
 
--### 6. Cigarette-Market-Penetration-Analysis-in-Odisha
+### 6. Cigarette-Market-Penetration-Analysis-in-Odisha
 -Project Overview This project focuses on the analysis of cigarette market penetration in Odisha, utilizing real data gathered from a comprehensive survey conducted across six districts. The study aims to explore consumer behavior, preferences, and trends within the retail sector, involving both smokers and retail shops.
 
 - ## Skills
